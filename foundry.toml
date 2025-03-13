@@ -4,6 +4,6 @@ out = "out"
 libs = ["lib"]
 
 [rpc_endpoints]
-crossfi = "${CROSSFI_TESTNET_RPC}"
+crossfiRPC = "https://rpc.testnet.ms"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
